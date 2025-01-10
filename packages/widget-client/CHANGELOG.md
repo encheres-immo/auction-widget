@@ -1,5 +1,11 @@
 # @encheres-immo/widget-client
 
+## 0.4.2
+
+### Patch Changes
+
+- f7bcf21: Added `email` to `Usertype`.
+
 ## 0.4.1
 
 ### Patch Changes
